@@ -26,6 +26,8 @@ https://github.com/junegunn/vim-plug ( Besure to follow instructions for Neovim 
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
+Open nvim in terminal and type command `:PlugInstall` to install plugins
+
 
 ## Config
 
